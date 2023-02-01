@@ -1,7 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash"
 echo "ALX School"
 =======
 #!/bin/bash
 echo "ALX School is so cool!"
 >>>>>>> master
+=======
+
+#!/bin/bash
+echo "ALX School is so cool!"
+
+>>>>>>> 335bbb8a06eb5db767436f1e023043051b3e59b0
